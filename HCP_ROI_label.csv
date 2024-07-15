@@ -1,0 +1,181 @@
+Region Number,Region Name,Cortical Area,Region Name CN,R_label_in_annotation,L_label_in_annotation,R_label_in_ROIs,L_label_in_ROIs
+1,Primary Visual Cortex,V1,初级视觉皮层,R_V1_ROI,L_V1_ROI,GM_001R_V1,GM_181L_V1
+2,Early Visual Cortex,V2,早期视觉皮层,R_V2_ROI,L_V2_ROI,GM_004R_V2,GM_184L_V2
+2,Early Visual Cortex,V3,早期视觉皮层,R_V3_ROI,L_V3_ROI,GM_005R_V3,GM_185L_V3
+2,Early Visual Cortex,V4,早期视觉皮层,R_V4_ROI,L_V4_ROI,GM_006R_V4,GM_186L_V4
+3,Dorsal Stream Visual Cortex,V3A,背侧视觉皮层,R_V3A_ROI,L_V3A_ROI,GM_013R_V3a,GM_193L_V3A
+3,Dorsal Stream Visual Cortex,V3b,背侧视觉皮层,R_V3B_ROI,L_V3B_ROI,GM_019R_V3b,GM_199L_V3B
+3,Dorsal Stream Visual Cortex,V6,背侧视觉皮层,R_V6_ROI,L_V6_ROI,GM_003R_V6,GM_183L_V6
+3,Dorsal Stream Visual Cortex,V6A,背侧视觉皮层,R_V6A_ROI,L_V6A_ROI,GM_152R_V6A,GM_332L_V6A
+3,Dorsal Stream Visual Cortex,V7,背侧视觉皮层,R_V7_ROI,L_V7_ROI,GM_016R_V7,GM_196L_V7
+3,Dorsal Stream Visual Cortex,IPS1,背侧视觉皮层,R_IPS1_ROI,L_IPS1_ROI,GM_017R_IPS1,GM_197L_IPS1
+4,Ventral Stream Visual Cortex,V8,腹侧视觉皮层,R_V8_ROI,L_V8_ROI,GM_007R_V8,GM_187L_V8
+4,Ventral Stream Visual Cortex,VVC,腹侧视觉皮层,R_VVC_ROI,L_VVC_ROI,GM_163R_VVC,GM_343L_VVC
+4,Ventral Stream Visual Cortex,PIT,腹侧视觉皮层,R_PIT_ROI,L_PIT_ROI,GM_022R_PIT,GM_202L_PIT
+4,Ventral Stream Visual Cortex,FFC,腹侧视觉皮层,R_FFC_ROI,L_FFC_ROI,GM_018R_FFC,GM_198L_FFC
+4,Ventral Stream Visual Cortex,VMV1,腹侧视觉皮层,R_VMV1_ROI,L_VMV1_ROI,GM_153R_VMV1,GM_333L_VMV1
+4,Ventral Stream Visual Cortex,VMV2,腹侧视觉皮层,R_VMV2_ROI,L_VMV2_ROI,GM_160R_VMV2,GM_340L_VMV2
+4,Ventral Stream Visual Cortex,VMV3,腹侧视觉皮层,R_VMV3_ROI,L_VMV3_ROI,GM_154R_VMV3,GM_334L_VMV3
+5,MT+ Complex and Neighboring Visual Areas,V3CD,颞中回与邻近视觉区域,R_V3CD_ROI,L_V3CD_ROI,GM_158R_V3CD,GM_338L_V3CD
+5,MT+ Complex and Neighboring Visual Areas,LO1,颞中回与邻近视觉区域,R_LO1_ROI,L_LO1_ROI,GM_020R_LO1,GM_200L_LO1
+5,MT+ Complex and Neighboring Visual Areas,LO2,颞中回与邻近视觉区域,R_LO2_ROI,L_LO2_ROI,GM_021R_LO2,GM_201L_LO2
+5,MT+ Complex and Neighboring Visual Areas,LO3,颞中回与邻近视觉区域,R_LO3_ROI,L_LO3_ROI,GM_159R_LO3,GM_339L_LO3
+5,MT+ Complex and Neighboring Visual Areas,V4t,颞中回与邻近视觉区域,R_V4t_ROI,L_V4t_ROI,GM_156R_V4t,GM_336L_V4t
+5,MT+ Complex and Neighboring Visual Areas,FST,颞中回与邻近视觉区域,R_FST_ROI,L_FST_ROI,GM_157R_FST,GM_337L_FST
+5,MT+ Complex and Neighboring Visual Areas,MT,颞中回与邻近视觉区域,R_MT_ROI,L_MT_ROI,GM_023R_MT,GM_203L_MT
+5,MT+ Complex and Neighboring Visual Areas,MST,颞中回与邻近视觉区域,R_MST_ROI,L_MST_ROI,GM_002R_MST,GM_182L_MST
+5,MT+ Complex and Neighboring Visual Areas,PH,颞中回与邻近视觉区域,R_PH_ROI,L_PH_ROI,GM_138R_PH,GM_318L_PH
+6,Somatosensory and Motor Cortex,4,感觉运动皮层,R_4_ROI,L_4_ROI,GM_008R_4,GM_188L_4
+6,Somatosensory and Motor Cortex,3a,感觉运动皮层,R_3a_ROI,L_3a_ROI,GM_053R_3a,GM_233L_3a
+6,Somatosensory and Motor Cortex,3b,感觉运动皮层,R_3b_ROI,L_3b_ROI,GM_009R_3b,GM_189L_3b
+6,Somatosensory and Motor Cortex,1,感觉运动皮层,R_1_ROI,L_1_ROI,GM_051R_1,GM_231L_1
+6,Somatosensory and Motor Cortex,2,感觉运动皮层,R_2_ROI,L_2_ROI,GM_052R_2,GM_232L_2
+7,Paracentral Lobular and Mid Cingulate Cortex ,24dd,中央旁小叶与中扣带回,R_24dd_ROI,L_24dd_ROI,GM_040R_24dd,GM_220L_24dd
+7,Paracentral Lobular and Mid Cingulate Cortex ,24dv,中央旁小叶与中扣带回,R_24dv_ROI,L_24dv_ROI,GM_041R_24dv,GM_221L_24dv
+7,Paracentral Lobular and Mid Cingulate Cortex ,6mp,中央旁小叶与中扣带回,R_6mp_ROI,L_6mp_ROI,GM_055R_6mp,GM_235L_6mp
+7,Paracentral Lobular and Mid Cingulate Cortex ,6ma,中央旁小叶与中扣带回,R_6ma_ROI,L_6ma_ROI,GM_044R_6ma,GM_224L_6ma
+7,Paracentral Lobular and Mid Cingulate Cortex ,SCEF,中央旁小叶与中扣带回,R_SCEF_ROI,L_SCEF_ROI,GM_043R_SCEF,GM_223L_SCEF
+7,Paracentral Lobular and Mid Cingulate Cortex ,5m,中央旁小叶与中扣带回,R_5m_ROI,L_5m_ROI,GM_036R_5m,GM_216L_5m
+7,Paracentral Lobular and Mid Cingulate Cortex ,5L,中央旁小叶与中扣带回,R_5L_ROI,L_5L_ROI,GM_039R_5L,GM_219L_5L
+7,Paracentral Lobular and Mid Cingulate Cortex ,5mv,中央旁小叶与中扣带回,R_5mv_ROI,L_5mv_ROI,GM_037R_5mv,GM_217L_5mv
+8,Premotor  Cortex,6a,初级运动皮层,R_6a_ROI,L_6a_ROI,GM_096R_6a,GM_276L_6a
+8,Premotor  Cortex,6d,初级运动皮层,R_6d_ROI,L_6d_ROI,GM_054R_6d,GM_234L_6d
+8,Premotor  Cortex,FEF,初级运动皮层,R_FEF_ROI,L_FEF_ROI,GM_010R_FEF,GM_190L_FEF
+8,Premotor  Cortex,PEF,初级运动皮层,R_PEF_ROI,L_PEF_ROI,GM_011R_PEF,GM_191L_PEF
+8,Premotor  Cortex,55b,初级运动皮层,R_55b_ROI,L_55b_ROI,GM_012R_55b,GM_192L_55b
+8,Premotor  Cortex,6v,初级运动皮层,R_6v_ROI,L_6v_ROI,GM_056R_6v,GM_236L_6v
+8,Premotor  Cortex,6r,初级运动皮层,R_6r_ROI,L_6r_ROI,GM_078R_6r,GM_258L_6r
+9,Posterior Opercular Cortex  ,43,后侧岛盖皮层,R_43_ROI,L_43_ROI,GM_099R_43,GM_279L_43
+9,Posterior Opercular Cortex  ,FOP1,后侧岛盖皮层,R_FOP1_ROI,L_FOP1_ROI,GM_113R_FOP1,GM_293L_FOP1
+9,Posterior Opercular Cortex  ,OP4,后侧岛盖皮层,R_OP4_ROI,L_OP4_ROI,GM_100R_OP4,GM_280L_OP4
+9,Posterior Opercular Cortex  ,OP1,后侧岛盖皮层,R_OP1_ROI,L_OP1_ROI,GM_101R_OP1,GM_281L_OP1
+9,Posterior Opercular Cortex  ,OP2-3,后侧岛盖皮层,R_OP2-3_ROI,L_OP2-3_ROI,GM_102R_OP2-3,GM_282L_OP2-3
+9,Posterior Opercular Cortex  ,PFcm,后侧岛盖皮层,R_PFcm_ROI,L_PFcm_ROI,GM_105R_PFcm,GM_285L_PFcm
+10,Early Auditory Cortex,A1,初级听觉皮层,R_A1_ROI,L_A1_ROI,GM_024R_A1,GM_204L_A1
+10,Early Auditory Cortex,LBelt,初级听觉皮层,R_LBelt_ROI,L_LBelt_ROI,GM_174R_LBelt,GM_354L_LBelt
+10,Early Auditory Cortex,MBelt,初级听觉皮层,R_MBelt_ROI,L_MBelt_ROI,GM_173R_MBelt,GM_353L_MBelt
+10,Early Auditory Cortex,PBe1t,初级听觉皮层,R_PBelt_ROI,L_PBelt_ROI,GM_124R_PBe1t,GM_304L_PBelt
+10,Early Auditory Cortex,RI,初级听觉皮层,R_RI_ROI,L_RI_ROI,GM_104R_RI,GM_284L_RI
+11,Auditory Association Cortex ,A4,听觉联合皮层,R_A4_ROI,L_A4_ROI,GM_175R_A4,GM_355L_A4
+11,Auditory Association Cortex ,A5,听觉联合皮层,R_A5_ROI,L_A5_ROI,GM_125R_A5,GM_305L_A5
+11,Auditory Association Cortex ,STSdp,听觉联合皮层,R_STSdp_ROI,L_STSdp_ROI,GM_129R_STSdp,GM_309L_STSdp
+11,Auditory Association Cortex ,STSda,听觉联合皮层,R_STSda_ROI,L_STSda_ROI,GM_128R_STSda,GM_308L_STSda
+11,Auditory Association Cortex ,STSvp,听觉联合皮层,R_STSvp_ROI,L_STSvp_ROI,GM_130R_STSvp,GM_310L_STSvp
+11,Auditory Association Cortex ,STSva,听觉联合皮层,R_STSva_ROI,L_STSva_ROI,GM_176R_STSva,GM_356L_STSva
+11,Auditory Association Cortex ,TA2,听觉联合皮层,R_TA2_ROI,L_TA2_ROI,GM_107R_TA2,GM_287L_TA2
+11,Auditory Association Cortex ,STGa,听觉联合皮层,R_STGa_ROI,L_STGa_ROI,GM_123R_STGa,GM_303L_STGa
+12,Insular and Frontal Opercular Cortex ,52,脑岛-岛盖皮层,R_52_ROI,L_52_ROI,GM_103R_52,GM_283L_52
+12,Insular and Frontal Opercular Cortex ,PI,脑岛-岛盖皮层,R_PI_ROI,L_PI_ROI,GM_178R_PI,GM_358L_PI
+12,Insular and Frontal Opercular Cortex ,Ig,脑岛-岛盖皮层,R_Ig_ROI,L_Ig_ROI,GM_168R_Ig,GM_348L_Ig
+12,Insular and Frontal Opercular Cortex ,PoI1,脑岛-岛盖皮层,R_PoI1_ROI,L_PoI1_ROI,GM_167R_PoI1,GM_347L_PoI1
+12,Insular and Frontal Opercular Cortex ,PoI2,脑岛-岛盖皮层,R_PoI2_ROI,L_PoI2_ROI,GM_106R_PoI2,GM_286L_PoI2
+12,Insular and Frontal Opercular Cortex ,FOP2,脑岛-岛盖皮层,R_FOP2_ROI,L_FOP2_ROI,GM_115R_FOP2,GM_295L_FOP2
+12,Insular and Frontal Opercular Cortex ,FOP3,脑岛-岛盖皮层,R_FOP3_ROI,L_FOP3_ROI,GM_114R_FOP3,GM_294L_FOP3
+12,Insular and Frontal Opercular Cortex ,MI,脑岛-岛盖皮层,R_MI_ROI,L_MI_ROI,GM_109R_MI,GM_289L_MI
+12,Insular and Frontal Opercular Cortex ,AVI,脑岛-岛盖皮层,R_AVI_ROI,L_AVI_ROI,GM_111R_AVI,GM_291L_AVI
+12,Insular and Frontal Opercular Cortex ,AAIC,脑岛-岛盖皮层,R_AAIC_ROI,L_AAIC_ROI,GM_112R_AAIC,GM_292L_AAIC
+12,Insular and Frontal Opercular Cortex ,Pir,脑岛-岛盖皮层,R_Pir_ROI,L_Pir_ROI,GM_110R_Pir,GM_290L_Pir
+12,Insular and Frontal Opercular Cortex ,FOP4,脑岛-岛盖皮层,R_FOP4_ROI,L_FOP4_ROI,GM_108R_FOP4,GM_288L_FOP4
+12,Insular and Frontal Opercular Cortex ,FOP5,脑岛-岛盖皮层,R_FOP5_ROI,L_FOP5_ROI,GM_169R_FOP5,GM_349L_FOP5
+13,Medial Temporal Cortex,H,内侧颞叶,R_H_ROI,L_H_ROI,GM_120R_H,GM_300L_H
+13,Medial Temporal Cortex,PreS,内侧颞叶,R_PreS_ROI,L_PreS_ROI,GM_119R_PreS,GM_299L_PreS
+13,Medial Temporal Cortex,EC,内侧颞叶,R_EC_ROI,L_EC_ROI,GM_118R_EC,GM_298L_EC
+13,Medial Temporal Cortex,PeEc,内侧颞叶,R_PeEc_ROI,L_PeEc_ROI,GM_122R_PeEc,GM_302L_PeEc
+13,Medial Temporal Cortex,PHA1,内侧颞叶,R_PHA1_ROI,L_PHA1_ROI,GM_126R_PHA1,GM_306L_PHA1
+13,Medial Temporal Cortex,PHA2,内侧颞叶,R_PHA2_ROI,L_PHA2_ROI,GM_155R_PHA2,GM_335L_PHA2
+13,Medial Temporal Cortex,PHA3,内侧颞叶,R_PHA3_ROI,L_PHA3_ROI,GM_127R_PHA3,GM_307L_PHA3
+14,Lateral Temporal Cortex ,PHT,外侧颞叶,R_PHT_ROI,L_PHT_ROI,GM_137R_PHT,GM_317L_PHT
+14,Lateral Temporal Cortex ,TE1p,外侧颞叶,R_TE1p_ROI,L_TE1p_ROI,GM_133R_TE1p,GM_313L_TE1p
+14,Lateral Temporal Cortex ,TE1m,外侧颞叶,R_TE1m_ROI,L_TE1m_ROI,GM_177R_TE1m,GM_357L_TE1m
+14,Lateral Temporal Cortex ,TE1a,外侧颞叶,R_TE1a_ROI,L_TE1a_ROI,GM_132R_TE1a,GM_312L_TE1a
+14,Lateral Temporal Cortex ,TE2p,外侧颞叶,R_TE2p_ROI,L_TE2p_ROI,GM_136R_TE2p,GM_316L_TE2p
+14,Lateral Temporal Cortex ,TE2a,外侧颞叶,R_TE2a_ROI,L_TE2a_ROI,GM_134R_TE2a,GM_314L_TE2a
+14,Lateral Temporal Cortex ,TGv,外侧颞叶,R_TGv_ROI,L_TGv_ROI,GM_172R_TGv,GM_352L_TGv
+14,Lateral Temporal Cortex ,TGd,外侧颞叶,R_TGd_ROI,L_TGd_ROI,GM_131R_TGd,GM_311L_TGd
+14,Lateral Temporal Cortex ,TF,外侧颞叶,R_TF_ROI,L_TF_ROI,GM_135R_TF,GM_315L_TF
+15,Temporo-Parieto-Occipital Junction ,TPOJ1,颞顶联合区,R_TPOJ1_ROI,L_TPOJ1_ROI,GM_139R_TPOJ1,GM_319L_TPOJ1
+15,Temporo-Parieto-Occipital Junction ,TPOJ2,颞顶联合区,R_TPOJ2_ROI,L_TPOJ2_ROI,GM_140R_TPOJ2,GM_320L_TPOJ2
+15,Temporo-Parieto-Occipital Junction ,TPOJ3,颞顶联合区,R_TPOJ3_ROI,L_TPOJ3_ROI,GM_141R_TPOJ3,GM_321L_TPOJ3
+15,Temporo-Parieto-Occipital Junction ,STV,颞顶联合区,R_STV_ROI,L_STV_ROI,GM_028R_STV,GM_208L_STV
+15,Temporo-Parieto-Occipital Junction ,PSL,颞顶联合区,R_PSL_ROI,L_PSL_ROI,GM_025R_PSL,GM_205L_PSL
+16,Superior Parietal Cortex,LIPv,顶上皮层,R_LIPv_ROI,L_LIPv_ROI,GM_048R_LIPv,GM_228L_LIPv
+16,Superior Parietal Cortex,LIPd,顶上皮层,R_LIPd_ROI,L_LIPd_ROI,GM_095R_LIPd,GM_275L_LIPd
+16,Superior Parietal Cortex,VIP,顶上皮层,R_VIP_ROI,L_VIP_ROI,GM_049R_VIP,GM_229L_VIP
+16,Superior Parietal Cortex,AIP,顶上皮层,R_AIP_ROI,L_AIP_ROI,GM_117R_AIP,GM_297L_AIP
+16,Superior Parietal Cortex,MIP,顶上皮层,R_MIP_ROI,L_MIP_ROI,GM_050R_MIP,GM_230L_MIP
+16,Superior Parietal Cortex,7PC,顶上皮层,R_7PC_ROI,L_7PC_ROI,GM_047R_7PC,GM_227L_7PC
+16,Superior Parietal Cortex,7AL,顶上皮层,R_7AL_ROI,L_7AL_ROI,GM_042R_7AL,GM_222L_7AL
+16,Superior Parietal Cortex,7Am,顶上皮层,R_7Am_ROI,L_7Am_ROI,GM_045R_7Am,GM_225L_7Am
+16,Superior Parietal Cortex,7PL,顶上皮层,R_7PL_ROI,L_7PL_ROI,GM_046R_7PL,GM_226L_7PL
+16,Superior Parietal Cortex,7Pm,顶上皮层,R_7Pm_ROI,L_7Pm_ROI,GM_029R_7Pm,GM_209L_7Pm
+17,Inferior Parietal Cortex,PGp,顶下皮层,R_PGp_ROI,L_PGp_ROI,GM_143R_PGp,GM_323L_PGp
+17,Inferior Parietal Cortex,PGs,顶下皮层,R_PGs_ROI,L_PGs_ROI,GM_151R_PGs,GM_331L_PGs
+17,Inferior Parietal Cortex,PGi,顶下皮层,R_PGi_ROI,L_PGi_ROI,GM_150R_PGi,GM_330L_PGi
+17,Inferior Parietal Cortex,PFm,顶下皮层,R_PFm_ROI,L_PFm_ROI,GM_149R_PFm,GM_329L_PFm
+17,Inferior Parietal Cortex,PF,顶下皮层,R_PF_ROI,L_PF_ROI,GM_148R_PF,GM_328L_PF
+17,Inferior Parietal Cortex,PFt,顶下皮层,R_PFt_ROI,L_PFt_ROI,GM_116R_PFt,GM_296L_PFt
+17,Inferior Parietal Cortex,PFop,顶下皮层,R_PFop_ROI,L_PFop_ROI,GM_147R_PFop,GM_327L_PFop
+17,Inferior Parietal Cortex,IP0,顶下皮层,R_IP0_ROI,L_IP0_ROI,GM_146R_IP0,GM_326L_IP0
+17,Inferior Parietal Cortex,IP1,顶下皮层,R_IP1_ROI,L_IP1_ROI,GM_145R_IP1,GM_325L_IP1
+17,Inferior Parietal Cortex,IP2,顶下皮层,R_IP2_ROI,L_IP2_ROI,GM_144R_IP2,GM_324L_IP2
+18,Posterior Cingulate Cortex ,DVT,后扣带回,R_DVT_ROI,L_DVT_ROI,GM_142R_DVT,GM_322L_DVT
+18,Posterior Cingulate Cortex ,ProS,后扣带回,R_ProS_ROI,L_ProS_ROI,GM_121R_ProS,GM_301L_ProS
+18,Posterior Cingulate Cortex ,POS1,后扣带回,R_POS1_ROI,L_POS1_ROI,GM_031R_POS1,GM_211L_POS1
+18,Posterior Cingulate Cortex ,POS2,后扣带回,R_POS2_ROI,L_POS2_ROI,GM_015R_POS2,GM_195L_POS2
+18,Posterior Cingulate Cortex ,RSC,后扣带回,R_RSC_ROI,L_RSC_ROI,GM_014R_RSC,GM_194L_RSC
+18,Posterior Cingulate Cortex ,v23ab,后扣带回,R_v23ab_ROI,L_v23ab_ROI,GM_033R_v23ab,GM_213L_v23ab
+18,Posterior Cingulate Cortex ,23ab,后扣带回,R_d23ab_ROI,L_d23ab_ROI,GM_034R_23ab,GM_214L_d23ab
+18,Posterior Cingulate Cortex ,31pv,后扣带回,R_31pv_ROI,L_31pv_ROI,GM_035R_31pv,GM_215L_31pv
+18,Posterior Cingulate Cortex ,31pd,后扣带回,R_31pd_ROI,L_31pd_ROI,GM_161R_31pd,GM_341L_31pd
+18,Posterior Cingulate Cortex ,31a,后扣带回,R_31a_ROI,L_31a_ROI,GM_162R_31a,GM_342L_31a
+18,Posterior Cingulate Cortex ,23d,后扣带回,R_23d_ROI,L_23d_ROI,GM_032R_23d,GM_212L_23d
+18,Posterior Cingulate Cortex ,23c,后扣带回,R_23c_ROI,L_23c_ROI,GM_038R_23c,GM_218L_23c
+18,Posterior Cingulate Cortex ,PCV,后扣带回,R_PCV_ROI,L_PCV_ROI,GM_027R_PCV,GM_207L_PCV
+18,Posterior Cingulate Cortex ,7m,后扣带回,R_7m_ROI,L_7m_ROI,GM_030R_7m,GM_210L_7m
+19,Anterior Cingulate and Medial Prefrontal Cortex ,33pr,前扣带回与内侧前额叶,R_33pr_ROI,L_33pr_ROI,GM_058R_33pr,GM_238L_33pr
+19,Anterior Cingulate and Medial Prefrontal Cortex ,p24pr,前扣带回与内侧前额叶,R_p24pr_ROI,L_p24pr_ROI,GM_057R_p24pr,GM_237L_p24pr
+19,Anterior Cingulate and Medial Prefrontal Cortex ,a24pr,前扣带回与内侧前额叶,R_a24pr_ROI,L_a24pr_ROI,GM_059R_a24pr,GM_239L_a24pr
+19,Anterior Cingulate and Medial Prefrontal Cortex ,p24,前扣带回与内侧前额叶,R_p24_ROI,L_p24_ROI,GM_180R_p24,GM_360L_p24
+19,Anterior Cingulate and Medial Prefrontal Cortex ,a24,前扣带回与内侧前额叶,R_a24_ROI,L_a24_ROI,GM_061R_a24,GM_241L_a24
+19,Anterior Cingulate and Medial Prefrontal Cortex ,p32pr,前扣带回与内侧前额叶,R_p32pr_ROI,L_p32pr_ROI,GM_060R_p32pr,GM_240L_p32pr
+19,Anterior Cingulate and Medial Prefrontal Cortex ,a32pr,前扣带回与内侧前额叶,R_a32pr_ROI,L_a32pr_ROI,GM_179R_a32pr,GM_359L_a32pr
+19,Anterior Cingulate and Medial Prefrontal Cortex ,d32,前扣带回与内侧前额叶,R_d32_ROI,L_d32_ROI,GM_062R_d32,GM_242L_d32
+19,Anterior Cingulate and Medial Prefrontal Cortex ,p32,前扣带回与内侧前额叶,R_p32_ROI,L_p32_ROI,GM_064R_p32,GM_244L_p32
+19,Anterior Cingulate and Medial Prefrontal Cortex ,s32,前扣带回与内侧前额叶,R_s32_ROI,L_s32_ROI,GM_165R_s32,GM_345L_s32
+19,Anterior Cingulate and Medial Prefrontal Cortex ,8BM,前扣带回与内侧前额叶,R_8BM_ROI,L_8BM_ROI,GM_063R_8BM,GM_243L_8BM
+19,Anterior Cingulate and Medial Prefrontal Cortex ,9m,前扣带回与内侧前额叶,R_9m_ROI,L_9m_ROI,GM_069R_9m,GM_249L_9m
+19,Anterior Cingulate and Medial Prefrontal Cortex ,10v,前扣带回与内侧前额叶,R_10v_ROI,L_10v_ROI,GM_088R_10v,GM_268L_10v
+19,Anterior Cingulate and Medial Prefrontal Cortex ,10r,前扣带回与内侧前额叶,R_10r_ROI,L_10r_ROI,GM_065R_10r,GM_245L_10r
+19,Anterior Cingulate and Medial Prefrontal Cortex ,25,前扣带回与内侧前额叶,R_25_ROI,L_25_ROI,GM_164R_25,GM_344L_25
+20,Orbital and Polar Frontal Cortex,47s,眶额皮层,R_47s_ROI,L_47s_ROI,GM_094R_47s,GM_274L_47s
+20,Orbital and Polar Frontal Cortex,47m,眶额皮层,R_47m_ROI,L_47m_ROI,GM_066R_47m,GM_246L_47m
+20,Orbital and Polar Frontal Cortex,a47r,眶额皮层,R_a47r_ROI,L_a47r_ROI,GM_077R_a47r,GM_257L_a47r
+20,Orbital and Polar Frontal Cortex,11l,眶额皮层,R_11l_ROI,L_11l_ROI,GM_091R_11l,GM_271L_11l
+20,Orbital and Polar Frontal Cortex,13l,眶额皮层,R_13l_ROI,L_13l_ROI,GM_092R_13l,GM_272L_13l
+20,Orbital and Polar Frontal Cortex,a10p,眶额皮层,R_a10p_ROI,L_a10p_ROI,GM_089R_a10p,GM_269L_a10p
+20,Orbital and Polar Frontal Cortex,p10p,眶额皮层,R_p10p_ROI,L_p10p_ROI,GM_170R_p10p,GM_350L_p10p
+20,Orbital and Polar Frontal Cortex,10pp,眶额皮层,R_10pp_ROI,L_10pp_ROI,GM_090R_10pp,GM_270L_10pp
+20,Orbital and Polar Frontal Cortex,10d,眶额皮层,R_10d_ROI,L_10d_ROI,GM_072R_10d,GM_252L_10d
+20,Orbital and Polar Frontal Cortex,OFC,眶额皮层,R_OFC_ROI,L_OFC_ROI,GM_093R_OFC,GM_273L_OFC
+20,Orbital and Polar Frontal Cortex,pOFC,眶额皮层,R_pOFC_ROI,L_pOFC_ROI,GM_166R_pOFC,GM_346L_pOFC
+21,Inferior Frontal Cortex ,44,额下皮层,R_44_ROI,L_44_ROI,GM_074R_44,GM_254L_44
+21,Inferior Frontal Cortex ,45,额下皮层,R_45_ROI,L_45_ROI,GM_075R_45,GM_255L_45
+21,Inferior Frontal Cortex ,IFJp,额下皮层,R_IFJp_ROI,L_IFJp_ROI,GM_080R_IFJp,GM_260L_IFJp
+21,Inferior Frontal Cortex ,IFJa,额下皮层,R_IFJa_ROI,L_IFJa_ROI,GM_079R_IFJa,GM_259L_IFJa
+21,Inferior Frontal Cortex ,IFSp,额下皮层,R_IFSp_ROI,L_IFSp_ROI,GM_081R_IFSp,GM_261L_IFSp
+21,Inferior Frontal Cortex ,IFSa,额下皮层,R_IFSa_ROI,L_IFSa_ROI,GM_082R_IFSa,GM_262L_IFSa
+21,Inferior Frontal Cortex ,47l,额下皮层,R_47l_ROI,L_47l_ROI,GM_076R_471,GM_256L_47l
+21,Inferior Frontal Cortex ,p47r,额下皮层,R_p47r_ROI,L_p47r_ROI,GM_171R_p47r,GM_351L_p47r
+22,DorsoLateral Prefrontal Cortex,8c,背外侧前额叶,R_8C_ROI,L_8C_ROI,GM_073R_8c,GM_253L_8C
+22,DorsoLateral Prefrontal Cortex,8Av,背外侧前额叶,R_8Av_ROI,L_8Av_ROI,GM_067R_8Av,GM_247L_8Av
+22,DorsoLateral Prefrontal Cortex,i6-8,背外侧前额叶,R_i6-8_ROI,L_i6-8_ROI,GM_097R_i6-8,GM_277L_i6-8
+22,DorsoLateral Prefrontal Cortex,s6-8,背外侧前额叶,R_s6-8_ROI,L_s6-8_ROI,GM_098R_s6-8,GM_278L_s6-8
+22,DorsoLateral Prefrontal Cortex,SFL,背外侧前额叶,R_SFL_ROI,L_SFL_ROI,GM_026R_SFL,GM_206L_SFL
+22,DorsoLateral Prefrontal Cortex,8BL,背外侧前额叶,R_8BL_ROI,L_8BL_ROI,GM_070R_8BL,GM_250L_8BL
+22,DorsoLateral Prefrontal Cortex,9p,背外侧前额叶,R_9p_ROI,L_9p_ROI,GM_071R_9p,GM_251L_9p
+22,DorsoLateral Prefrontal Cortex,9a,背外侧前额叶,R_9a_ROI,L_9a_ROI,GM_087R_9a,GM_267L_9a
+22,DorsoLateral Prefrontal Cortex,8Ad,背外侧前额叶,R_8Ad_ROI,L_8Ad_ROI,GM_068R_8Ad,GM_248L_8Ad
+22,DorsoLateral Prefrontal Cortex,p9-46v,背外侧前额叶,R_p9-46v_ROI,L_p9-46v_ROI,GM_083R_p9-46v,GM_263L_p9-46v
+22,DorsoLateral Prefrontal Cortex,a9-46v,背外侧前额叶,R_a9-46v_ROI,L_a9-46v_ROI,GM_085R_a9-46v,GM_265L_a9-46v
+22,DorsoLateral Prefrontal Cortex,46,背外侧前额叶,R_46_ROI,L_46_ROI,GM_084R_46,GM_264L_46
+22,DorsoLateral Prefrontal Cortex,9-46d,背外侧前额叶,R_9-46d_ROI,L_9-46d_ROI,GM_086R_9-46d,GM_266L_9-46d
